@@ -3,7 +3,7 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p><em>🌱 I’m currently learning Java</em></p>
-    <p><em>👩🏻‍💻 I'm Computer Engineering student</em></p>
+    <p><em>👩🏻‍💻 I'm a Computer Engineering student</em></p>
     <!-- Diğer metinler buraya gelebilir -->
   </div>
   <div style="border-left: 1px solid #555; height: 200px; margin: 0 20px;"></div>
