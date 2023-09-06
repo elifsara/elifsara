@@ -15,9 +15,13 @@
 ## Interests
 
 📫Deep Learning
+
 👀Artificial Intelligence
+
 💞️Data Science
+
 🌐Full Stack Web Development
+
 📱Mobile App Development
 
 ## My Projects
