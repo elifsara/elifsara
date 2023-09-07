@@ -1,4 +1,4 @@
-# *🌏Hello World!, My Name is Elif Sara!*
+# *🌏Hello World! My Name is Elif Sara!*
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
