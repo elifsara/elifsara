@@ -32,9 +32,6 @@ I enjoy improving myself in the field of software development, and I share some 
 - [NumberSorting](https://github.com/elifsara/Java101/blob/master/NumberSorting.java): Number Sorting Porject
 - [UserLogin](https://github.com/elifsara/Java101/blob/master/userLogin.java): User Login Project
 
-<img src="https://raw.githubusercontent.com/elifsara/elifsara/output/snake.svg" alt="Snake animation" />
-
-###
 ## Contact
 
 If you want to get in touch with me, ask questions about my projects, or offer collaboration, please use the following contact information:
