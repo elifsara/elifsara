@@ -43,3 +43,35 @@ If you want to get in touch with me, ask questions about my projects, or offer c
 ## Thanks
 
 Thank you for visiting my GitHub profile. I am always open to new projects and collaborations. Keep following my progress!
+
+## 📊 GitHub Stats
+
+![elifsara's GitHub stats](https://github-readme-stats.vercel.app/api?username=elifsara&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifsara&layout=compact&theme=radical)
+
+## 🐍Watch the Snake Devour My Contributions!
+<img src="https://raw.githubusercontent.com/elifsara/elifsara/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+
+## 🌟 Visitor Count
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <!-- <td>
+        <div align="center">
+          <a href="https://github.com/Thinkright20"><img src="https://github.com/Thinkright20.png" alt="@Thinkright20" width="52" /></a>
+          <br />
+          <a align="center" href="https://github.com/thinkright20"><b>Thinkright20</b></a>
+        </b>
+      </td> -->
+      <!-- Profile Views -->
+      <td>
+         <a href="https://github.com/elifsara"> <img src="https://komarev.com/ghpvc/?username=elifsara&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
