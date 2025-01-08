@@ -50,9 +50,6 @@ Thank you for visiting my GitHub profile. I am always open to new projects and c
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifsara&layout=compact&theme=radical)
 
-## 🐍Watch the Snake Devour My Contributions!
-<img src="https://raw.githubusercontent.com/elifsara/elifsara/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
 
 ## 🌟 Visitor Count
 
